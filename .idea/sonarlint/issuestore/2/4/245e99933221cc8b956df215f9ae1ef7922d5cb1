@@ -1,0 +1,8 @@
+
+qsquid:UselessImportCheck"ARemove this unused import 'java.util.concurrent.ExecutorService'.(ζχ–£ωÿÿÿÿ8πά‡―-
+¤%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ηΉªΧ8πά‡―-
+ksquid:UselessImportCheck";Remove this unused import 'java.util.concurrent.Executors'.(δεÒΫÿÿÿÿÿ8πά‡―-
+Wsquid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™”€ωÿÿÿÿ
+Xsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Κ‚κX8πά‡―-
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ηΉªΧ
+ksquid:UselessImportCheck"@Remove this unused import 'java.util.concurrent.CountDownLatch'.(¤ƒτ§8‚‡―-
